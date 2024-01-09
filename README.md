@@ -1,3 +1,4 @@
+![logo](https://github.com/MuzammilTheRealDev/MuzammilTheRealDev/blob/main/My%20Header.png)
 <h1 align="center">Hi 👋, I'm Muzammil Hassan</h1>
 <h3 align="center">A passionate Full Stack Laravel developer from Pakistan</h3>
     <img src="giphy.gif"   align="right" width="400px" alt="">
