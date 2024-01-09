@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muzammil Hassan</h1>
 <h3 align="center">A passionate Full Stack Laravel developer from Pakistan</h3>
+<img align="right" width="400px" src"https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 👀 I thrive on **the challenge of diverse Laravel projects, bringing creativity and precision to each endeavor.**
 
