@@ -18,12 +18,12 @@
 </p>
 
 Skills 🚀
-Languages: PHP, JavaScript
-Front-end: HTML, CSS, JavaScript
-Back-end: PHP 
-Frameworks: Laravel, Bootstrap
-Databases: MySQL
-Tools:  Git, VS Code, Photoshop 
+Languages: PHP, JavaScript <br>
+Front-end: HTML, CSS, JavaScript <br>
+Back-end: PHP  <br>
+Frameworks: Laravel, Bootstrap <br>
+Databases: MySQL <br>
+Tools:  Git, VS Code, Photoshop  <br>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammiltherealdev&show_icons=true&locale=en&layout=compact" alt="muzammiltherealdev" /></p>
