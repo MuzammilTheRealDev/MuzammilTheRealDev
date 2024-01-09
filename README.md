@@ -11,19 +11,21 @@
 
 - 📫 How to reach me **muzammilhassan7080@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100010373043040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010373043040" height="30" width="40" /></a>
-<a href="https://instagram.com/muzammilhassan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzammilhassan786" height="30" width="40" /></a>
-</p>
-
-Skills 🚀
+- Skills 🚀: <br>
 Languages: PHP, JavaScript <br>
 Front-end: HTML, CSS, JavaScript <br>
 Back-end: PHP  <br>
 Frameworks: Laravel, Bootstrap <br>
 Databases: MySQL <br>
 Tools:  Git, VS Code, Photoshop  <br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100010373043040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010373043040" height="30" width="40" /></a>
+<a href="https://instagram.com/muzammilhassan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzammilhassan786" height="30" width="40" /></a>
+</p>
+
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammiltherealdev&show_icons=true&locale=en&layout=compact" alt="muzammiltherealdev" /></p>
