@@ -31,3 +31,8 @@ Tools:  Git, VS Code, Photoshop  <br>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammiltherealdev&show_icons=true&locale=en&layout=compact" alt="muzammiltherealdev" /></p>
+
+<br clear="both">
+
+
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/aayushchouhan24/aayushchouhan24@output/github-contribution-grid-snake-dark.svg" />
