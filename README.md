@@ -17,7 +17,8 @@
 Languages: PHP, JavaScript <br>
 Front-end: HTML, CSS, JavaScript <br>
 Back-end: PHP  <br>
-Frameworks: Laravel, Bootstrap <br>
+Frameworks: Laravel<br>
+Library: Bootstrap and Tailwind CSS
 Databases: MySQL <br>
 Tools:  Git, VS Code, Photoshop  <br>
 
