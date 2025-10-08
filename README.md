@@ -39,10 +39,6 @@ Jest · Supertest · Postman
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuzammilTheRealDev&show_icons=true&theme=tokyonight" alt="Muzammil's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuzammilTheRealDev&theme=tokyonight" alt="Muzammil's Streak" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzammilTheRealDev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
